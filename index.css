@@ -1,0 +1,32 @@
+body{
+    margin:0;
+
+}
+
+.container{
+    background-image: url("temp_background.jpg");
+    background-color: bisque;
+
+    height: 100vh;
+}
+
+
+.header{
+    height: 15%;
+
+}
+
+.main{
+    height: 40%;
+}
+
+
+
+.links{
+    height: 30%;
+
+}
+
+.footer{
+    height: 15%;
+}
