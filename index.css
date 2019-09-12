@@ -1,32 +1,69 @@
-body{
-    margin:0;
 
+html, body{
+    margin:0;
 }
 
-.container{
-    background-image: url("temp_background.jpg");
-    background-color: bisque;
+.container-fluid{
+    /* background-image: url("temp_background.jpg"); */
+    background-color: #525c7a;
 
     height: 100vh;
 }
 
 
 .header{
-    height: 15%;
+    height: 10%;
+    /* background-color: blue; */
 
 }
 
-.main{
-    height: 40%;
+.center{
+    height: 60%;
+    /* background-color: pink; */
 }
 
 
 
 .links{
-    height: 30%;
-
+    height: 20%;
+    /* background-color: red; */
 }
 
 .footer{
-    height: 15%;
+    height3377ff
+    /* bac3377fflor: #99aabb; */
 }
+
+
+img.me {
+    border-radius: 50%;
+    display: block;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 375px;
+    width: 375px;
+}
+
+
+p{
+color: white;
+}
+
+.name{
+    margin-top: 15%;
+    text-align: left;
+    font-size: 4vw;
+}
+
+.title{
+   text-align: left;
+   font-size: 2vw;
+}
+
+.desc{
+    text-align: left;
+    font-size: 1vw;
+    width: 70%;
+}
+
