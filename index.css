@@ -24,25 +24,15 @@ html, body{
 
 
 
-.links{
-    height: 20%;
-    /* background-color: red; */
-}
-
-.footer{
-    height3377ff
-    /* bac3377fflor: #99aabb; */
-}
-
 
 .me {
     border-radius: 50%;
     display: block;
-    margin-top: 10%;
+    margin-top: 5%;
     margin-left: auto;
     margin-right: auto;
-    height: 375px;
-    width: 375px;
+    height: 25vw;
+    width: 25vw;
 }
 
 
@@ -64,6 +54,55 @@ color: white;
 .desc{
     text-align: left;
     font-size: 1vw;
-    width: 70%;
+    width: 66%;
 }
+
+
+
+
+
+/* links */
+
+
+/* div */
+.links{
+    height: 20%;
+    /* background-color: red; */
+}
+
+
+/* img */
+.link{
+    display: block;
+    margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 5vw;
+    width: 5vw;
+}
+
+
+
+/* header */
+.home{
+    height: 3vw;
+    width: 3vw;
+    margin: 2vw;
+    
+}
+
+
+
+/* footer */
+.footer{
+    padding: 0px;
+    margin:0px;
+    text-align: center;
+    padding-top: 3vh;
+    height: 10%;
+    /* background-color: #99aabb; */
+
+}
+
+
 
