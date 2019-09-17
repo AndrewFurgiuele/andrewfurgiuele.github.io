@@ -35,7 +35,7 @@ html, body{
 }
 
 
-img.me {
+.me {
     border-radius: 50%;
     display: block;
     margin-top: 10%;
