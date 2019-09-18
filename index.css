@@ -18,7 +18,7 @@ html, body{
 }
 
 .center{
-    height: 60%;
+    height: 70%;
     /* background-color: pink; */
 }
 
@@ -58,15 +58,12 @@ color: white;
 }
 
 
-
-
-
 /* links */
 
 
 /* div */
 .links{
-    height: 20%;
+    height: 10%;
     /* background-color: red; */
 }
 
@@ -74,11 +71,19 @@ color: white;
 /* img */
 .link{
     display: block;
-    margin-top: 20%;
+    /* margin-top: 60%; */
     margin-left: auto;
     margin-right: auto;
-    height: 5vw;
-    width: 5vw;
+    height: 4vw;
+    width: 4vw;
+}
+
+.label{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0;
 }
 
 
@@ -97,9 +102,10 @@ color: white;
 .footer{
     padding: 0px;
     margin:0px;
-    text-align: center;
+    text-align: right;
     padding-top: 3vh;
     height: 10%;
+    color: whitesmoke;
     /* background-color: #99aabb; */
 
 }
