@@ -38,6 +38,7 @@ html, body{
 
 p{
 color: black;
+
 }
 
 .information{
@@ -81,14 +82,16 @@ color: black;
     margin-right: auto;
     height: 4vw;
     width: 4vw;
+    opacity: .75;
 }
 
 .label{
-    display: block;
+    display: none;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    opacity: 0;
+    /* opacity: 1; */
+    font-weight: bold;
 }
 
 
