@@ -5,7 +5,7 @@ html, body{
 
 .container-fluid{
     /* background-image: url("temp_background.jpg"); */
-    background-color: #525c7a;
+    background-color: #949db8;
 
     height: 100vh;
 }
@@ -28,20 +28,25 @@ html, body{
 .me {
     border-radius: 50%;
     display: block;
-    margin-top: 5%;
+    margin-top: 15%;
     margin-left: auto;
     margin-right: auto;
-    height: 25vw;
-    width: 25vw;
+    max-height: 25vw;
+    max-width: 25vw;
 }
 
 
 p{
-color: white;
+color: black;
 }
 
+.information{
+    padding: 0px !important;
+}
+
+
 .name{
-    margin-top: 15%;
+    margin-top: 7%;
     text-align: left;
     font-size: 4vw;
 }
@@ -105,7 +110,7 @@ color: white;
     text-align: right;
     padding-top: 3vh;
     height: 10%;
-    color: whitesmoke;
+    color: black;
     /* background-color: #99aabb; */
 
 }
