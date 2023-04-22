@@ -16,8 +16,8 @@ html, body{
    line-height: 100px;
    color:white;
    size: 72px;
-   font-size: 72px;
-   padding-top: 5%;
+   font-size: 100px;
+   padding-top: 30%;
    
    }
 
@@ -26,6 +26,6 @@ html, body{
     text-align: center;
    line-height: 100px;
    color:white;
-   size: 36px;
+   font-size: 36px;
 
 } 
