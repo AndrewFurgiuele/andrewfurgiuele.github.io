@@ -40,7 +40,7 @@ body {
   position: relative;
   top: 9999px;
   transform-origin: -100% 150%;
-  animation: crawl 30s linear;
+  animation: crawl 40s linear;
 }
 
 .crawl > .title {
@@ -77,7 +77,7 @@ body {
     right:0px;
     bottom:0px;
     left:0px;
-    animation: fadeIn 30s;
+    animation: fadeIn 40s;
     padding: 5%;
     margin-top: 150px;
 
